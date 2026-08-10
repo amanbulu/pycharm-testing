@@ -1,0 +1,11 @@
+# syntax
+st = set()
+# syntax
+st = {'item1', 'item2', 'item3', 'item4'}
+# syntax
+fruits = {'banana', 'orange', 'mango', 'lemon'}
+# syntax
+st = {'item1', 'item2', 'item3', 'item4'}
+len(st)
+fruits = {'banana', 'orange', 'mango', 'lemon'}
+len(fruits)
